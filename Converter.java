@@ -7,6 +7,6 @@ public class Converter {
         System.out.println("Введите значение:");
         double sum = conversion.nextDouble();
         double converted = mil*sum;
-        System.out.println("Конвертація кілометрів в милі "+converted);
+        System.out.println("Конвертація милі в кілометрів "+converted);
     }
 }

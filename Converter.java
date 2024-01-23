@@ -8,5 +8,6 @@ public class Converter {
         double sum = conversion.nextDouble();
         double converted = mil*sum;
         System.out.println("Конвертація кілометрів в милі "+converted);
+        System.out.println("Гарного дня");
     }
 }
